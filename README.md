@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-<p>Projeto desevolvido com REACT + Typescript, desenvolvido durante o curso [B7-Web.](https://b7web.com.br) </p>
+<p>Projeto desevolvido com REACT + Typescript, desenvolvido durante o curso B7WEB </p>
 
 ## Tecnologias Utilizadas:
 
