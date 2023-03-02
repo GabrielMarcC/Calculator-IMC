@@ -10,6 +10,10 @@
 - REACT JS
 - NPM
 
+
+## Aprendizados:
+<p>Nesse projeto exercitei conceitos sobre gerenciamento de estados, grid layout, responsive design e tipagem de dados. </p>
+
 ## Instalação
 
 `npm install`
@@ -17,3 +21,5 @@
 ## Rodando o projeto
 
 `npm run dev`
+
+##Link do deploy
