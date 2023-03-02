@@ -23,4 +23,4 @@
 `npm run dev`
 
 ## Link do deploy
-<a href="https://caculator-imc.vercel.app/"> Caculator IMC</a>
+### https://caculator-imc.vercel.app/
